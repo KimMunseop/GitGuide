@@ -11,6 +11,6 @@ public class TestMerge {
 
     @Override
     public String toString() {
-        return "TestMerge{}";
+        return "Master branch TestMerge{}";
     }
 }
